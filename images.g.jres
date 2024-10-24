@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMDMAOwMzMzMwMwAwAz8z8zMzMzsDP/8TMzMzMAM/M/MwMAALAzMzMzAwAAADMzMzMDAAAAM/M/MwMAALAz//EzMzMzADPzPzMzMzOwMzMzMwMwAwAAADMzAzADAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "mrPinky"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
